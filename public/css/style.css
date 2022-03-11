@@ -1,0 +1,12 @@
+a.my_button {
+    width: 100%;
+    margin: 5px 0;
+    display: block !important;
+}
+div.gallery-item {
+    margin: 10px 0;
+}
+.galery-img {
+    display: block;
+    margin: 0px auto;
+}
